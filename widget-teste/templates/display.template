@@ -1,0 +1,18 @@
+<div class="jumbotron text-center">
+		<h2>Tarefas</h2>
+		<form data-bind="submit: addTask">
+		    Adicionar tarefas: <input data-bind="value: newTaskText" placeholder="O que precisa fazer?" />
+		    <button class="btn btn-primary" type="submit">Adiconar</button>
+		</form>
+
+		<ul data-bind="foreach: tasks, visible: tasks().length > 0">
+		    <li style="list-style: none">
+		        <input type="checkbox" data-bind="checked: isDone" />
+		        <input data-bind="value: title, disable: isDone" />
+		        <a href="#" data-bind="click: $parent.removeTask">Deletar</a>
+		    </li> 
+		</ul>
+
+		Você tem <b data-bind="text: incompleteTasks().length">&nbsp;</b> Tarefa(s) incompleta(s)
+		<span data-bind="visible: incompleteTasks().length == 0"> - Aproveita aí!</span>
+</div>

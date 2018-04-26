@@ -1,0 +1,20 @@
+{
+  "availableToAllPages": true,
+  "config": {
+    "widgetBackgroundColor": "#333333",
+    "widgetTarget": "#",
+    "widgetText": "TEXTO DO WIDGET AQUI",
+    "widgetTextColor": "#999999"
+  },
+  "global": false,
+  "globalEnabled": true,
+  "imports": [],
+  "javascript": "nomeDoArquivoJs",
+  "jsEditable": true,
+  "minWidth": 1,
+  "name": "Nome do Widget",
+  "source": 101,
+  "version": 1,
+  "widgetFamily": "widget-12345",
+  "widgetType": "widget-12345"
+}

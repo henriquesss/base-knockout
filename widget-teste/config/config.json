@@ -1,0 +1,37 @@
+{
+    "widgetDescriptorName": "Nome do widget",
+    "properties": [
+        {
+            "id": "widgetText",
+            "type": "stringType",
+            "name": "widgetText",
+            "labelResourceId": "widgetTextLabel",
+            "helpTextResourceId": "widgetTextHelpText",
+            "required": true
+        },
+        {
+            "id": "widgetTarget",
+            "type": "stringType",
+            "name": "widgetTarget",
+            "labelResourceId": "widgetTargetLabel",
+            "helpTextResourceId": "widgetTargetHelpText",
+            "required": true
+        },
+        {
+            "id": "widgetBackgroundColor",
+            "type": "stringType",
+            "name": "widgetBackgroundColor",
+            "labelResourceId": "widgetBackgroundColorLabel",
+            "helpTextResourceId": "widgetBackgroundColorHelpText",
+            "required": true
+        },
+        {
+            "id": "widgetTextColor",
+            "type": "stringType",
+            "name": "widgetTextColor",
+            "labelResourceId": "widgetTextColorLabel",
+            "helpTextResourceId": "widgetTextColorHelpText",
+            "required": true
+        }
+    ]
+}

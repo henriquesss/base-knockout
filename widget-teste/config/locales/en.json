@@ -1,0 +1,12 @@
+{
+  "resources" : {
+    "widgetTextLabel": "widget text",
+    "widgetTargetLabel": "widget target",
+    "widgetBackgroundColorLabel": "Background color",
+    "widgetTextColorLabel": "Text color",
+    "widgetTextHelpText": "Text to be displayed on the widget",
+    "widgetTargetHelpText": "URL to be loaded when widget is ",
+    "widgetBackgroundColorHelpText": "Background color of widget, in hex format (i.e. white = #FFFFFF)",
+    "widgetTextColorHelpText": "Text color, in hex format (i.e. white = #FFFFFF)"
+  }
+}
