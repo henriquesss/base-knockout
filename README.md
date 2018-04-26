@@ -1,6 +1,6 @@
 # Códigos úteis e reutilizáveis com Knockaute.js
 
-Repositório destinado para armazenar conteúdos úteis envolvendo Knockout.js e suas variáveis.
+Repositório destinado a armazenar conteúdos úteis envolvendo Knockout.js e suas variáveis.
 
 
 ### Como contribuir?
