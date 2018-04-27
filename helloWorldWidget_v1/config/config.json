@@ -1,0 +1,13 @@
+{
+    "widgetDescriptorName": "HelloWorld",
+    "properties": [
+        {
+            "id": "helloworld",
+            "type": "stringType",
+            "name": "helloworld",
+            "labelResourceId": "helloworldlabel",
+            "helpTextResourceId": "helloworldhelp",
+            "required": true
+        }
+    ]
+}
