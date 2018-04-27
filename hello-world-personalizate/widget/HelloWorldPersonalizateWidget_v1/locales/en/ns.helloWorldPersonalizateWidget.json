@@ -1,0 +1,9 @@
+{
+    "resources": {
+        "hello": "Hello!",
+        "helloName": "Hello __name__!",
+        "morning": "Good Morning! Welcome!",
+        "welcome": "Welcome!",
+        "time": "Current Date/Hour:"
+    }
+}

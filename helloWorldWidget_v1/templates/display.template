@@ -1,8 +1,0 @@
-<div class="jumbotron text-center">
-	<h2 data-bind="text: hello"></h2>
-	<br>
-	<label>Digite seu nome para fazer mudar!</label>
-	<br>
-	<input type="text" data-bind="value: name">
-	<br>
-</div>

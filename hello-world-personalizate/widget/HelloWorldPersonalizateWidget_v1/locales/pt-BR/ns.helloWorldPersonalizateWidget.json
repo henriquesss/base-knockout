@@ -1,0 +1,9 @@
+{
+    "resources": {
+        "hello": "Ola!",
+        "helloName": "Olá __name__!",
+        "morning": "Bom dia! Seja Bem vindo!",
+        "welcome": "Seja Bem Vindo!",
+        "time": "Data/Horário atual:"
+    }
+}

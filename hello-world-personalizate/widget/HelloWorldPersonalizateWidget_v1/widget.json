@@ -1,0 +1,14 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": true,
+  "i18nresources": "helloWorldPersonalizate",
+  "javascript": "helloWorldPersonalizate",
+  "jsEditable": true,
+  "minWidth": 1,
+  "name": "HelloWorldPersonalizate",
+  "source": 101,
+  "version": 1,
+  "widgetFamily": "HelloWorldPersonalizate",
+  "widgetType": "HelloWorldPersonalizate"
+}
