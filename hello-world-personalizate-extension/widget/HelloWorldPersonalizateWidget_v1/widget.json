@@ -2,7 +2,6 @@
   "config": {},
   "global": false,
   "globalEnabled": true,
-  "i18nresources": "helloWorldPersonalizate",
   "javascript": "helloWorldPersonalizate",
   "jsEditable": true,
   "minWidth": 1,
@@ -10,5 +9,6 @@
   "source": 101,
   "version": 1,
   "widgetFamily": "HelloWorldPersonalizate",
-  "widgetType": "HelloWorldPersonalizate"
+  "widgetType": "HelloWorldPersonalizate",
+  "availableToAllPages": true
 }
