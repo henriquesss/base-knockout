@@ -1,0 +1,16 @@
+{
+	"availableToAllPages": true,
+	"translations" : [
+		{
+			"language": "en",	
+			"name": "Hello World Widget"
+		},
+		{
+			"language": "pt",	
+			"name": "Olá mundo Widget"
+		}
+	],
+	"javascript": "helloUserWidget",
+	"jsEditable": true,
+	"version": 1
+}
