@@ -1,0 +1,19 @@
+{
+  "availableToAllPages": true,
+  "global": false,
+  "globalEnabled": true,
+  "i18nresources": "bannertriplo",
+  "javascript": "bannerTriplo",
+  "jsEditable": true,
+  "translations" : [
+		{
+			"language": "en",	
+			"name": "Triple Banner whith text marcelo joras"
+		},
+		{
+			"language": "pt",	
+			"name": "Banner Triplo com texto Marcelo Joras"
+		}
+   ],
+  "version": 2
+}

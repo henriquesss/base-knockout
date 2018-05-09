@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "messageWidgetTitleHelpText": "Confgurações do widget",
+    "messageWidgetTitleLabel": "Titulo do widget",
+    "messageFirstBannerHelpText": "Insira aqui o primeiro banner",
+    "messageFirstBannerLabel": "Primeiro Banner",
+    "messageSecondBannerHelpText": "Insira aqui o segundo banner",
+    "messageSecondBannerLabel": "Segundo Banner",
+    "messageThirdBannerHelpText": "Insira aqui o terceiro banner",
+    "messageThirdBannerLabel": "Terceiro Banner",
+    "messageFirstBannerTextHelpText": "Digite aqui o texto do primeiro banner",
+    "messageFirstBannerTextLabel": "Texto do primeiro Banner",
+    "messageSecondBannerTextHelpText": "Digite aqui o texto do segundo banner",
+    "messageSecondBannerTextLabel": "Texto do segundo Banner",
+    "messageThirdBannerTextHelpText": "Digite aqui o texto do terceiro banner",
+    "messageThirdBannerTextLabel": "Texto do terceiro Banner",
+    "addToCartGrowlHeader" : "Você adicionou este item ao carrinho",
+    "shareProductEmailSubject": "Conferir produto __productName__"
+  }
+}

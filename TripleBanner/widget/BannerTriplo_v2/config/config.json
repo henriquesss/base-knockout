@@ -1,0 +1,53 @@
+{
+  "widgetDescriptorName": "Banner Triplo",
+  "properties": [
+    {
+      "id": "messageWidgetTitle",
+      "type": "sectionTitleType",
+      "helpTextResourceId": "messageWidgetTitleHelpText",
+      "labelResourceId": "messageWidgetTitleLabel"
+    },
+    {
+      "id": "firstBanner",
+      "type": "mediaType",
+      "helpTextResourceId": "messageFirstBannerHelpText",
+      "labelResourceId": "messageFirstBannerLabel",
+      "defaultValue": ""
+    },
+    {
+      "id": "firstBannerText",
+      "type": "stringType",
+      "helpTextResourceId": "messageFirstBannerTextHelpText",
+      "labelResourceId": "messageFirstBannerTextLabel",
+      "defaultValue": ""
+    },
+    {
+      "id": "secondBanner",
+      "type": "mediaType",
+      "helpTextResourceId": "messageSecondBannerHelpText",
+      "labelResourceId": "messageSecondBannerLabel",
+      "defaultValue": ""
+    },
+    {
+      "id": "secondBannerText",
+      "type": "stringType",
+      "helpTextResourceId": "messageSecondBannerTextHelpText",
+      "labelResourceId": "messageSecondBannerTextLabel",
+      "defaultValue": ""
+    },
+    {
+      "id": "thirdBanner",
+      "type": "mediaType",
+      "helpTextResourceId": "messageThirdBannerHelpText",
+      "labelResourceId": "messageThirdBannerLabel",
+      "defaultValue": ""
+    },
+    {
+      "id": "thirdBannerText",
+      "type": "stringType",
+      "helpTextResourceId": "messageThirdBannerTextHelpText",
+      "labelResourceId": "messageThirdBannerTextLabel",
+      "defaultValue": ""
+    }
+  ]
+}

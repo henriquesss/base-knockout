@@ -1,0 +1,16 @@
+<div id="banner-triplo">
+    <div class="row">
+        <div class="col-md-4">
+            <img data-bind="attr: { src: banner1 }" class="banner-image">
+            <div class="text-banner" data-bind="text: texto1"></div>
+        </div>
+        <div class="col-md-4 banner-center-image">
+            <img data-bind="attr: { src: banner2 }" class="banner-image">
+            <div class="text-banner" data-bind="text: texto1"></div>
+        </div>
+        <div class="col-md-4">
+            <img data-bind="attr: { src: banner3 }" class="banner-image">
+            <div class="text-banner" data-bind="text: texto1"></div>
+        </div>
+    </div>
+</div>
